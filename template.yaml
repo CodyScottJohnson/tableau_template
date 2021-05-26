@@ -3,7 +3,7 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: v1beta2-demo
-  title: Create Tableau Dashboard
+  title: Create Tableau Dashboards
   description: scaffolder v1beta2 template demo
 spec:
   owner: backstage/techdocs-core
