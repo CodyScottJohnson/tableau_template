@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Visualization
 metadata:
-  name: Test Dashboard
-  description: Artist Lookup
+  name: test-dashboard
+  description: Dashboard Lookup
   tags:
     - java
     - data
