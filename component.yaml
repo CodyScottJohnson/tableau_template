@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-dashboard
+  title: Test Tableau Dashboard
   description: Dashboard Lookup Thing
   tags:
     - java
