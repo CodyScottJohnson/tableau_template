@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Visualization
 metadata:
   name: test-dashboard
-  description: Dashboard Lookup
+  description: Dashboard Lookup Thing
   tags:
     - java
     - data
