@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Visualization
+kind: Component
 metadata:
   name: test-dashboard
   description: Dashboard Lookup Thing
@@ -29,7 +29,7 @@ metadata:
       title: Alerts
       icon: alert
 spec:
-  type: service
+  type: visualization
   lifecycle: experimental
   owner: team-a
   system: artist-engagement-portal
